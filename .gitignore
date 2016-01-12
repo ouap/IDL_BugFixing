@@ -1,5 +1,9 @@
 *.class
 IntroClassJava/
+.project
+.settings/
+.classpath
+target/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
